@@ -75,6 +75,8 @@ We thank the authors for their open-source contributions.
 
 ## 🎫 License
 
+The dataset associated with this work is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) (as defined in [LICENSE-DATA](LICENSE-DATA.txt)).
+
 This code of this work is licensed under the Apache License, Version 2.0 (as defined in the [LICENSE](LICENSE.txt)).
 
 The Marigold pretrained and fine-tuned models are licensed under RAIL++-M License (as defined in the [LICENSE-MODEL](LICENSE-MODEL.txt)).
