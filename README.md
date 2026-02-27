@@ -83,4 +83,4 @@ The Marigold pretrained and fine-tuned models are licensed under RAIL++-M Licens
 
 The RGBX pretrained and fine-tuned models are licensed under ADOBE RESEARCH LICENSE(as defined in the [LICENSE-ADOBE](LICENSE-ADOBE.txt)).
 
-By downloading and using the code and model you agree to the terms in [LICENSE](LICENSE.txt), [LICENSE-MODEL](LICENSE-MODEL.txt), and [LICENSE-ADOBE](LICENSE-ADOBE.txt) respectively.
+By downloading and using the dataset, code and models you agree to the terms in [LICENSE-DATA](LICENSE-DATA.txt), [LICENSE](LICENSE.txt), [LICENSE-MODEL](LICENSE-MODEL.txt), and [LICENSE-ADOBE](LICENSE-ADOBE.txt) respectively.
