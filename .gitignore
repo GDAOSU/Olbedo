@@ -1,0 +1,33 @@
+
+# ignore these folders
+/checkpoint
+/data/*/
+/input
+/output
+/output_*
+/temp
+/wandb
+/venv
+/cache
+/model*
+/tmp
+/out*
+
+**/.ipynb_checkpoints/
+.vscode/
+.idea
+.gradio/
+
+# ignore these types
+*.pyc
+*.out
+*.log
+*.mexa64
+*.pdf
+*.tar
+
+# ignore files and dirs with temp in the name
+*temp*
+
+
+
