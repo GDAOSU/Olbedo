@@ -72,3 +72,13 @@ This codebase is largely built upon the following excellent projects:
 * **[RGBX](https://github.com/zheng95z/rgbx)**
 
 We thank the authors for their open-source contributions.
+
+## 🎫 License
+
+This code of this work is licensed under the Apache License, Version 2.0 (as defined in the [LICENSE](LICENSE.txt)).
+
+The Marigold pretrained and fine-tuned models are licensed under RAIL++-M License (as defined in the [LICENSE-MODEL](LICENSE-MODEL.txt)).
+
+The RGBX pretrained and fine-tuned models are licensed under ADOBE RESEARCH LICENSE.
+
+By downloading and using the code and model you agree to the terms in [LICENSE](LICENSE.txt) and [LICENSE-MODEL](LICENSE-MODEL.txt) respectively.
