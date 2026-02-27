@@ -30,7 +30,6 @@ def main():
 
     args = parser.parse_args()
 
-    HF_TOKEN = os.getenv("HF_TOKEN")
     LOCAL_DIR = args.local_dir
     selected_model = args.model
 
@@ -48,7 +47,6 @@ def main():
         allow_patterns=f"{selected_model}/*",
         local_dir=LOCAL_DIR,
         local_dir_use_symlinks=False,
-        token=HF_TOKEN,
     )
 
     src = os.path.join(LOCAL_DIR, *selected_model.split("/"))
