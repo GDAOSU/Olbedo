@@ -1,7 +1,7 @@
 # Olbedo: An Albedo and Shading Aerial Dataset for Large-Scale Outdoor Environments
 
 [Shuang Song](https://openreview.net/profile?id=~Shuang_Song10)¹‡, 
-[Debao Huang](https://openreview.net/profile?id=~Debao_Huang1)¹‡, 
+[Debao Huang](https://debaohuang.github.io/)¹‡, 
 [Deyan Deng](https://openreview.net/profile?id=~Deyan_Deng1)¹, 
 [Haolin Xiong](https://openreview.net/profile?id=~Haolin_Xiong1)², 
 [Yang Tang](https://openreview.net/profile?id=~Yang_Tang4)¹, 
