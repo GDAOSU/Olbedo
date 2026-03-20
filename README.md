@@ -1,5 +1,16 @@
 # Olbedo: An Albedo and Shading Aerial Dataset for Large-Scale Outdoor Environments
 
+[Shuang Song](https://openreview.net/profile?id=~Shuang_Song10)¹‡, 
+[Debao Huang](https://openreview.net/profile?id=~Debao_Huang1)¹‡, 
+[Deyan Deng](https://openreview.net/profile?id=~Deyan_Deng1)¹, 
+[Haolin Xiong](https://openreview.net/profile?id=~Haolin_Xiong1)², 
+[Yang Tang](https://openreview.net/profile?id=~Yang_Tang4)¹, 
+[Yajie Zhao](https://openreview.net/profile?id=~Yajie_Zhao1)², 
+[Rongjun Qin](https://openreview.net/profile?id=~Rongjun_Qin1)¹*
+
+¹ The Ohio State University · ² University of Southern California  
+‡ Equal contribution · * Corresponding author
+
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://gdaosu.github.io/olbedo/)
 [![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-orange)](https://huggingface.co/spaces/GDAOSU/olbedo)
 [![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/GDAOSU/olbedo)
